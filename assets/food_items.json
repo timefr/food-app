@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Паста Карбонара",
+    "description": "Паста из печи с беконом, сырами чеддер и пармезан, томатами, моцареллой, фирменным соусом альфредо и чесноком",
+    "price": "329 ₽",
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/11EE797018746EF899D162D16FA99625.jpg",
+    "category": "Паста"
+  },
+  {
+    "title": "Ланчбокс с куриными крыльями",
+    "description": "Горячий сытный обед из куриных крылышек со специями и ароматом копчения, пряного картофеля из печи и соуса барбекю",
+    "price": "355 ₽",
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/11EE796FC8BE09CA8AB2DC9E77BDE64A.jpg",
+    "category": "Закуски"
+  },
+  {
+    "title": "Филадельфия с лососем холодного копчения",
+    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, огурец, лосось холодного копчения",
+    "price": "379 ₽",
+    "imageUrl": "https://977dba4f-c570-41cd-b9a9-7e6dd1fedbf6.selcdn.net/images/734l4dmshwRrCl9WkqnkoSOJElgYFw6w1JzDEdatIFk/pr:large/dDZqdXJyYnpyMDJz/bDMyYWwza3M4Nmc3/Nms2NQ",
+    "category": "Роллы"
+  },
+  {
+    "title": "Калифорния",
+    "description": "Рис, мицукан, сахар, комбу, соль, нори, майонез, авокадо, снежный краб, тобико",
+    "price": "299 ₽",
+    "imageUrl": "https://977dba4f-c570-41cd-b9a9-7e6dd1fedbf6.selcdn.net/images/Qxhw6s7XI0_3trvFk5vR3gxPEG585iIg14hLLy3-R0s/pr:large/YXZuN29qbm9rYzI4/d3p4bm9qcmRtM2sw/YmVyNg",
+    "category": "Роллы"
+  }
+]
